@@ -29,7 +29,7 @@ git merge template/main <BRANCH> --allow-unrelated-histories
 This template is designed to work with Foundry (stable). If you are using Foundry Nightly, you may encounter compatibility issues. You can update your Foundry installation to the latest stable version by running:
 
 ```
-foundryup
+foundry up
 ```
 
 To set up the project, run the following commands in your terminal to install dependencies and run the tests:
